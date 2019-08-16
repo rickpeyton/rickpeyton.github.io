@@ -16,7 +16,7 @@
 title: Rick Peyton
 email: peytorb@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I'm Rick Peyton, yes I'm the real Rick Peyton 
+  Yes I'm the real Rick Peyton 
   All you other Rick Peytons are just imitating
 baseurl: '' # the subpath of your site, e.g. /blog
 url: '' # the base hostname & protocol for your site, e.g. http://example.com
