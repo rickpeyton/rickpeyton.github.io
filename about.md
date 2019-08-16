@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![alt text](/assets/the-peyton-fam.jpg 'Gulf Coast Vacation 2018')
+![Gulf Coast Vacation 2018](/assets/the-peyton-fam.jpg 'Gulf Coast Vacation 2018')
 
 As you have probably figured out by now I am Rick Peyton. That is me above attempting a mean muggin’ shot with my wife and two boys.
 
