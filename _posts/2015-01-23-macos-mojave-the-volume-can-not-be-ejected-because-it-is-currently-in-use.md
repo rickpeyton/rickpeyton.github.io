@@ -2,7 +2,7 @@
 layout: post
 title: 'macOS Mojave The volume cannot be ejected because it is currently in use.'
 date: 2015-01-23 00:00:00 +0000
-categories: tech tips
+categories: other
 ---
 
 ![The volume cannot be ejected because it is currently in use](/assets/the_volume_cant_be_ejected_because_it_is_currently_in_use.png 'The volume cannot be ejected because it is currently in use')

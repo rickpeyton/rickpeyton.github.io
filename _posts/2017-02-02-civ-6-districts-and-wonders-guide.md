@@ -2,7 +2,7 @@
 layout: post
 title: 'Civ 6 Districts and Wonders Guide'
 date: 2017-02-02 00:00:00 +0000
-categories: gaming, civ 6
+categories: gaming
 redirect_from:
   - /gaming/civ-6-districts-and-wonders-guide/
 ---
