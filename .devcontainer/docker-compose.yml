@@ -1,0 +1,18 @@
+version: '3'
+services:
+  github-pages:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - ..:/workspace
+      - ~/.gitconfig:/root/.gitconfig
+      - /var/run/docker.sock:/var/run/docker.sock
+      - gems:/usr/local/bundle:delegated
+      - vscode:/root/.vscode-server:delegated
+    command: sleep infinity
+    ports:
+      - '3000:3000'
+volumes:
+  gems:
+  vscode:

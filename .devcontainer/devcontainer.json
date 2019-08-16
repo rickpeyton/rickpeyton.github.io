@@ -1,0 +1,25 @@
+// See https://aka.ms/vscode-remote/devcontainer.json for format details.
+{
+  "name": "Rick Peyton Github Pages",
+  "dockerComposeFile": "docker-compose.yml",
+  "service": "github-pages",
+  "workspaceFolder": "/workspace",
+  "extensions": [
+    "castwide.solargraph",
+    "eamodio.gitlens",
+    "esbenp.prettier-vscode",
+    "kaiwood.endwise",
+    "misogi.ruby-rubocop",
+    "peterjausovec.vscode-docker"
+  ],
+  "settings": {
+    "[json]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.formatOnSaveTimeout": 2000,
+    "remote.extensionKind": {
+      "peterjausovec.vscode-docker": "workspace"
+    },
+    "solargraph.useBundler": true
+  }
+}
