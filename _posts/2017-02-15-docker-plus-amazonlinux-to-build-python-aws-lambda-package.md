@@ -3,6 +3,8 @@ layout: post
 title: 'Docker Plus Amazonlinux to Build Python Aws Lambda Package'
 date: 2019-02-15 00:00:00 +0000
 categories: programming
+redirect_from:
+  - /programming/docker-plus-amazonlinux-to-build-python-aws-lambda-package/
 ---
 
 AWS has [good documentation](https://docs.aws.amazon.com/lambda/latest/dg/lambda-python-how-to-create-deployment-package.html) for creating a Python Deployment Package for Lambda, but things get a little more complicated if you are using a library that requires C Extensions.

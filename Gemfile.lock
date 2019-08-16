@@ -280,6 +280,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  jekyll-redirect-from
   rubocop
   rubocop-performance
   solargraph

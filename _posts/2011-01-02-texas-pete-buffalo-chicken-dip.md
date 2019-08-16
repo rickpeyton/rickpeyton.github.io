@@ -3,6 +3,8 @@ layout: post
 title: 'Texas Pete Buffalo Chicken Dip'
 date: 2011-01-02 00:00:00 +0000
 categories: recipes
+redirect_from:
+  - /recipes/texas-pete-buffalo-chicken-dip-recipe/
 ---
 
 ![Texas Pete Buffalo Chicken Dip](/assets/buffalo-chicken-wing-dip-texas-pete.jpg 'Texas Pete Buffalo Chicken Dip')

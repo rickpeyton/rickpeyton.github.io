@@ -3,6 +3,8 @@ layout: post
 title: 'Panera Bread Black Bean Soup'
 date: 2013-03-21 00:00:00 +0000
 categories: recipes
+redirect_from:
+  - /recipes/panera-bread-black-bean-soup-recipe/
 ---
 
 ![Panera Bread Black Bean Soup](/assets/panera-bread-black-bean-soup-recipe.jpg 'Panera Bread Black Bean Soup')

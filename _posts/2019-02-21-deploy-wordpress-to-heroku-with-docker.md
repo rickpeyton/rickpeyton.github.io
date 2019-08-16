@@ -3,6 +3,8 @@ layout: post
 title: 'Deploy Wordpress to Heroku with Docker'
 date: 2019-02-21 00:00:00 +0000
 categories: programming
+redirect_from:
+  - /programming/deploy-wordpress-to-heroku-with-docker/ 
 ---
 
 ## Update
