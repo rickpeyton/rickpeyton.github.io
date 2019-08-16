@@ -24,7 +24,7 @@ twitter_username: rickpeyton
 github_username: rickpeyton
 host: 0.0.0.0
 port: 3000
-permalink: none
+permalink: /:categories/:title/
 
 # Build settings
 markdown: kramdown
