@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'macOS Mojave – The volume can't be ejected because it's currently in use.'
-date: 2019-02-21 00:00:00 +0000
+title: 'macOS Mojave The volume cannot be ejected because it is currently in use.'
+date: 2015-01-23 00:00:00 +0000
 categories: tech tips
 ---
 
