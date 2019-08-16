@@ -5,7 +5,7 @@ date: 2017-11-02 00:00:00 +0000
 categories: recipes
 ---
 
-![Chicken Sausage and White Bean Stew ](assets/chicken-sausage-white-bean-stew.jpg 'Chicken Sausage and White Bean Stew')
+![Chicken Sausage and White Bean Stew ](/assets/chicken-sausage-white-bean-stew.jpg 'Chicken Sausage and White Bean Stew')
 
 Wow! This flavor is amazing. I put a little cayenne pepper in my bowl at serving time.
 

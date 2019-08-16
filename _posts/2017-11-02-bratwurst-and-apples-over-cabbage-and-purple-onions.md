@@ -5,7 +5,7 @@ date: 2017-11-02 00:00:00 +0000
 categories: recipes
 ---
 
-![Bratwurst and Apples Over Cabbage and Purple Onions](assets/brats-and-apples.jpg 'Bratwurst and Apples Over Cabbage and Purple Onions')
+![Bratwurst and Apples Over Cabbage and Purple Onions](/assets/brats-and-apples.jpg 'Bratwurst and Apples Over Cabbage and Purple Onions')
 
 The Ingredients
 

@@ -25,11 +25,11 @@ I have ranked all of the wonders in Tiers with 5 being the highest. And then sor
 
 ## Wonder Placement
 
-![Civ 6 Wonders Cheat Sheet](/assets/civilization-6-wonders-cheat-sheet-1568x1568.jpg 'Civ 6 Wonders Cheat Sheet')
+![Civ 6 Wonders Cheat Sheet](/assets/civilization-6-wonders-cheat-sheet-1568x1568.png 'Civ 6 Wonders Cheat Sheet')
 
 ## Civ 6 District Cheat Sheet
 
-![Civ 6 District Cheat Sheet v3.0](civilization-6-district-cheat-sheet-v3.0-1568x1131.jpg 'Civ 6 District Cheat Sheet v3.0')
+![Civ 6 District Cheat Sheet v3.0](/assets/civilization-6-district-cheat-sheet-v3.0-1568x1131.png 'Civ 6 District Cheat Sheet v3.0')
 
 - Campus
   - Standard bonus for placement adjacent to mountains, and a minor bonus for placement next to rainforest.

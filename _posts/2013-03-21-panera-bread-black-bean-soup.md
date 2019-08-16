@@ -5,7 +5,7 @@ date: 2013-03-21 00:00:00 +0000
 categories: recipes
 ---
 
-![Panera Bread Black Bean Soup](assets/panera-bread-black-bean-soup-recipe.jpg 'Panera Bread Black Bean Soup')
+![Panera Bread Black Bean Soup](/assets/panera-bread-black-bean-soup-recipe.jpg 'Panera Bread Black Bean Soup')
 
 Rebecca and I absolutely love the Panera Bread Black Bean Soup Recipe and have gone through many iterations trying to replicate the flavor at home. No insider information from Panera was used to create the following recipe, but we love it and think it is a wonderful at home alternative to Panera’s recipe.
 
