@@ -5,7 +5,7 @@ date: 2015-01-23 00:00:00 +0000
 categories: tech tips
 ---
 
-![The volume cannot be ejected because it is currently in use](assets/the_volume_cant_be_ejected_because_it_is_currently_in_use.png 'The volume cannot be ejected because it is currently in use')
+![The volume cannot be ejected because it is currently in use](/assets/the_volume_cant_be_ejected_because_it_is_currently_in_use.png 'The volume cannot be ejected because it is currently in use')
 
 My only computer is a Macbook Air with a 128gb SSD so if I am home and docked I always have an external hard drive attached.
 
@@ -21,7 +21,7 @@ Pop open Terminal and issue the following command (where myDrive is the Volume n
 
 Mine recently looked something like this
 
-![List of open files](assets/lsof_command.jpg 'List of open files')
+![List of open files](/assets/lsof_command.jpg 'List of open files')
 
 In my case the offender was Mail’s Indexing process.
 
