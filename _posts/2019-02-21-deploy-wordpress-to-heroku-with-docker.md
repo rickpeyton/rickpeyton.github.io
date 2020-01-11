@@ -4,7 +4,7 @@ title: 'Deploy Wordpress to Heroku with Docker'
 date: 2019-02-21 00:00:00 +0000
 categories: programming
 redirect_from:
-  - /programming/deploy-wordpress-to-heroku-with-docker/ 
+  - /programming/deploy-wordpress-to-heroku-with-docker/
 ---
 
 ## Update
@@ -21,7 +21,8 @@ There were a few gotchas along the way. I hope to document those here.
 The Dockerfile is pretty simple
 
 ```
-FROM wordpress:5.0.3-php7.3-apacheCOPY ./config/ports.conf /etc/apache2/ports.conf
+FROM wordpress:5.0.3-php7.3-apache
+COPY ./config/ports.conf /etc/apache2/ports.conf
 COPY . /var/www/html
 ```
 
