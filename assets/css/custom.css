@@ -1,0 +1,22 @@
+#profile-name {
+  margin-bottom: 1rem;
+}
+
+@media (min-width: 400px) {
+  #profile-photo {
+    text-align: center;
+  }
+}
+
+#profile-photo img {
+  border-radius: 50%;
+  width: 50%;
+}
+
+#profile-job-title {
+  list-style-type: none;
+}
+
+#profile-job-title li {
+  margin-bottom: 0;
+}
