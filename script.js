@@ -45,10 +45,13 @@ function resizeCanvas() {
 
   context.scale(pixelRatio, pixelRatio);
 
-  const columns = canvas.width / fontSize;
-  drops.length = columns;
-  for (let x = 0; x < columns; x++)
-    drops[x] = 1;
+  // Safeguard to ensure columns is a valid number
+  const columns = Math.floor(canvas.width / fontSize);
+  if (columns > 0 && Number.isFinite(columns)) {
+    drops.length = columns;
+    for (let x = 0; x < columns; x++)
+      drops[x] = 1;
+  }
 }
 
 window.addEventListener('resize', resizeCanvas);
