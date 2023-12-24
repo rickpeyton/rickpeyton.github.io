@@ -1,5 +1,7 @@
 const canvas = document.getElementById('matrixCanvas');
 const context = canvas.getContext('2d');
+const symbols = "ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890@#$%^&*()_+=-{}[]|;:'<>,.?/";
+
 
 let fontSize = 16;
 let drops = [];
@@ -30,7 +32,7 @@ function draw() {
       context.fillStyle = '#21D400'; // Normal color
     }
 
-    const text = "ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890@#$%^&*()_+=-{}[]|;:'<>,.?/".charAt(Math.floor(Math.random() * symbols.length));
+    const text = symbols.charAt(Math.floor(Math.random() * symbols.length));
     context.fillText(text, i * fontSize, drops[i] * fontSize);
 
     drops[i] += speedMultiplier * 0.05;
